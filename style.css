@@ -1,0 +1,14 @@
+*{margin:0;padding:0;}
+body{font-family:Arial,Helvetica,sans-serif;font-size:16px;background:#ffffff;color:#000000;}
+div#body{width:700px;margin:auto;display:none;}
+ul.content,ul.pager{list-style-type:none;margin:0;padding:0;overflow:hidden;}
+ul.content li{margin:20px 0 20px 0;}
+ul.pager li{float:left;width:350px;}
+li.next{text-align:right;}
+ul.pager li a:link,ul.pager li a:visited{color:#1e90ff;text-decoration:none;}
+ul.pager li a:hover,ul.pager li a:active{color:#00bfff;}
+.disabled a{visibility:hidden;}
+div#nojs{text-align:center;}
+div.title{font-size:20px;}
+div.date{font-size:14px;}
+div.text{text-align:justify;}
